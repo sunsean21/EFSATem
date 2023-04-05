@@ -2,8 +2,11 @@
 
 ## Requirements and Dependencies
 Ubuntu 16.04 
+
 CUDA 10.2
+
 Python 3.8.8
+
 Pytorch 1.9.1
 
 ## Training
